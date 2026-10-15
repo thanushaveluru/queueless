@@ -1,0 +1,10 @@
+{
+  "name": "QueueLess - Smart Queue Management & QR Verification",
+  "description": "Smart queue management platform with instant customer QR token booking, real-time queue tracking, and staff camera QR code scanner verification.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
